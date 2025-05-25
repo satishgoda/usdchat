@@ -1,3 +1,5 @@
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/satishgoda/usdchat)
+
 # 🤖 usdchat - Your Ultimate USD Sidekick 🌟
 
 usdchat is a conversational bot that lets you interact with USD Stage using natural language. Powered by OpenAI large language models, this AI assistant can answer you basic USD queries as well as a plugin to your favorite USD authoring toolsets. 🚀
